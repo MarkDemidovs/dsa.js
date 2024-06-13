@@ -2,7 +2,7 @@
 dsa.js is a library which aims to implement most of DSA topics in JavaScript / TypeScript in 1 single easy to use file.
 
 # Current Items Done:
-✅ Stacks
+✅ Stacks: JavaScript
 
 # Roadmap
 A TypeScript Re-Write
