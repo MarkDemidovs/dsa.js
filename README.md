@@ -20,5 +20,4 @@ A TypeScript Re-Write
       <li>and many other</li>
     </ul>
   </li>
-  <li>And much more.</li>
 </ul>
